@@ -1,0 +1,11 @@
+{
+  "name": "yuis-memory",
+  "version": "1.0.0",
+  "description": "a txt file that contains a chat log for my personal GPT. This will act as her memory.",
+  "main": "memory.txt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khaCey",
+  "license": "ISC"
+}
